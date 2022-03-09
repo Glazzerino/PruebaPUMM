@@ -5,4 +5,5 @@ int main() {
    std::cout << "Hello world!\n";
    std::cout << "Hello test!\n";
 
+   int x = 10;
 }
